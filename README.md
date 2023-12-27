@@ -1,1 +1,4 @@
 # PowerBI-Inventory-Management
+
+This project is centered around a comprehensive analysis of various aspects of a business operation, as evidenced by the diverse datasets provided. It encompasses a detailed examination of inventory management, customer transactions, and order processing. The datasets likely include information on customers, products, orders, individual order details, inventory status, and transaction records. The goal of the project is to provide insightful analytics that can inform business decisions, improve inventory management, optimize order processing, and enhance customer satisfaction. Through a combination of data analysis and visualization, this project aims to uncover key trends and patterns in business operations, contributing to a more efficient and customer-centric business model.<br><br>
+![Capture](https://github.com/fdurmaz1/SQL_Company_project/assets/133916817/b6780c8d-ce62-4124-9253-ae09185feb44)
