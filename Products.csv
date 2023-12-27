@@ -1,0 +1,46 @@
+Product ID,Product Code,Product Name,Standard Cost,List Price,Quantity Per Unit,Category
+1,NWTB-1, Chai,13.50,18.00,10 boxes x 20 bags,Beverages
+3,NWTCO-3, Syrup,7.50,10.00,12 - 550 ml bottles,Condiments
+4,NWTCO-4, Cajun Seasoning,16.50,22.00,48 - 6 oz jars,Condiments
+5,NWTO-5, Olive Oil,16.01,21.35,36 boxes,Oil
+6,NWTJP-6, Boysenberry Spread,18.75,25.00,12 - 8 oz jars,"Jams, Preserves"
+7,NWTDFN-7, Dried Pears,22.50,30.00,12 - 1 lb pkgs.,Dried Fruit & Nuts
+8,NWTS-8, Curry Sauce,30.00,40.00,12 - 12 oz jars,Sauces
+14,NWTDFN-14, Walnuts,17.44,23.25,40 - 100 g pkgs.,Dried Fruit & Nuts
+17,NWTCFV-17, Fruit Cocktail,29.25,39.00,15.25 OZ,Canned Fruit & Vegetables
+19,NWTBGM-19, Chocolate Biscuits Mix,6.90,9.20,10 boxes x 12 pieces,Baked Goods & Mixes
+20,NWTJP-6, Marmalade,60.75,81.00,30 gift boxes,"Jams, Preserves"
+21,NWTBGM-21, Scones,7.50,10.00,24 pkgs. x 4 pieces,Baked Goods & Mixes
+34,NWTB-34, Beer,10.50,14.00,24 - 12 oz bottles,Beverages
+40,NWTCM-40, Crab Meat,13.80,18.40,24 - 4 oz tins,Canned Meat
+41,NWTSO-41, Clam Chowder,7.24,9.65,12 - 12 oz cans,Soups
+43,NWTB-43, Coffee,34.50,46.00,16 - 500 g tins,Beverages
+48,NWTCA-48, Chocolate,9.56,12.75,10 pkgs,Candy
+51,NWTDFN-51, Dried Apples,39.75,53.00,50 - 300 g pkgs.,Dried Fruit & Nuts
+52,NWTG-52, Long Grain Rice,5.25,7.00,16 - 2 kg boxes,Grains
+56,NWTP-56, Gnocchi,28.50,38.00,24 - 250 g pkgs.,Pasta
+57,NWTP-57, Ravioli,14.63,19.50,24 - 250 g pkgs.,Pasta
+65,NWTS-65, Hot Pepper Sauce,15.79,21.05,32 - 8 oz bottles,Sauces
+66,NWTS-66, Tomato Sauce,12.75,17.00,24 - 8 oz jars,Sauces
+72,NWTD-72, Mozzarella,26.10,34.80,24 - 200 g pkgs.,Dairy Products
+74,NWTDFN-74, Almonds,7.50,10.00,5 kg pkg.,Dried Fruit & Nuts
+77,NWTCO-77, Mustard,9.75,13.00,12 boxes,Condiments
+80,NWTDFN-80, Dried Plums,3.00,3.50,1 lb bag,Dried Fruit & Nuts
+81,NWTB-81, Green Tea,2.00,2.99,20 bags per box,Beverages
+82,NWTC-82, Granola,2.00,4.00,,Cereal
+83,NWTCS-83, Potato Chips,0.50,1.80,,"Chips, Snacks"
+85,NWTBGM-85, Brownie Mix,9.00,12.49,3 boxes,Baked Goods & Mixes
+86,NWTBGM-86, Cake Mix,10.50,15.99,4 boxes,Baked Goods & Mixes
+87,NWTB-87, Tea,2.00,4.00,100 count per box,Beverages
+88,NWTCFV-88, Pears,1.00,1.30,15.25 OZ,Canned Fruit & Vegetables
+89,NWTCFV-89, Peaches,1.00,1.50,15.25 OZ,Canned Fruit & Vegetables
+90,NWTCFV-90, Pineapple,1.00,1.80,15.25 OZ,Canned Fruit & Vegetables
+91,NWTCFV-91, Cherry Pie Filling,1.00,2.00,15.25 OZ,Canned Fruit & Vegetables
+92,NWTCFV-92, Green Beans,1.00,1.20,14.5 OZ,Canned Fruit & Vegetables
+93,NWTCFV-93, Corn,1.00,1.20,14.5 OZ,Canned Fruit & Vegetables
+94,NWTCFV-94, Peas,1.00,1.50,14.5 OZ,Canned Fruit & Vegetables
+95,NWTCM-95, Tuna Fish,0.50,2.00,5 oz,Canned Meat
+96,NWTCM-96, Smoked Salmon,2.00,4.00,5 oz,Canned Meat
+97,NWTC-82, Hot Cereal,3.00,5.00,,Cereal
+98,NWTSO-98, Vegetable Soup,1.00,1.89,,Soups
+99,NWTSO-99, Chicken Soup,1.00,1.95,,Soups

@@ -1,0 +1,46 @@
+Product ID,Product Name,Product Code,Qty Purchased,Qty Sold,Qty On Hand,Qty On Hold,Reorder Level,Target Level
+1, Chai,NWTB-1,40,15,25,25,10,40
+3, Syrup,NWTCO-3,100,50,50,0,25,100
+4, Cajun Seasoning,NWTCO-4,40,40,0,0,10,40
+5, Olive Oil,NWTO-5,40,25,15,0,10,40
+6, Boysenberry Spread,NWTJP-6,100,100,0,0,25,100
+7, Dried Pears,NWTDFN-7,40,40,0,0,10,40
+8, Curry Sauce,NWTS-8,65,65,0,0,10,40
+14, Walnuts,NWTDFN-14,40,0,40,0,10,40
+17, Fruit Cocktail,NWTCFV-17,40,40,0,0,10,40
+19, Chocolate Biscuits Mix,NWTBGM-19,85,85,0,0,5,20
+20, Marmalade,NWTJP-6,40,40,0,0,10,40
+21, Scones,NWTBGM-21,20,20,0,0,5,20
+34, Beer,NWTB-34,510,487,23,23,15,60
+40, Crab Meat,NWTCM-40,120,120,0,0,30,120
+41, Clam Chowder,NWTSO-41,290,290,0,0,10,40
+43, Coffee,NWTB-43,650,325,325,325,25,100
+48, Chocolate,NWTCA-48,200,200,0,0,25,100
+51, Dried Apples,NWTDFN-51,40,40,0,0,10,40
+52, Long Grain Rice,NWTG-52,100,40,60,0,25,100
+56, Gnocchi,NWTP-56,120,0,120,110,30,120
+57, Ravioli,NWTP-57,180,100,80,0,20,80
+65, Hot Pepper Sauce,NWTS-65,40,0,40,0,10,40
+66, Tomato Sauce,NWTS-66,80,0,80,0,20,80
+72, Mozzarella,NWTD-72,90,90,0,0,10,40
+74, Almonds,NWTDFN-74,20,20,0,0,5,20
+77, Mustard,NWTCO-77,60,0,60,0,15,60
+80, Dried Plums,NWTDFN-80,75,55,20,20,50,75
+81, Green Tea,NWTB-81,325,200,125,75,100,125
+82, Granola,NWTC-82,0,0,0,0,20,100
+83, Potato Chips,NWTCS-83,0,0,0,0,30,200
+85, Brownie Mix,NWTBGM-85,0,0,0,0,10,20
+86, Cake Mix,NWTBGM-86,0,0,0,0,10,20
+87, Tea,NWTB-87,0,0,0,0,20,50
+88, Pears,NWTCFV-88,0,0,0,0,10,40
+89, Peaches,NWTCFV-89,0,0,0,0,10,40
+90, Pineapple,NWTCFV-90,0,0,0,0,10,40
+91, Cherry Pie Filling,NWTCFV-91,0,0,0,0,10,40
+92, Green Beans,NWTCFV-92,0,0,0,0,10,40
+93, Corn,NWTCFV-93,0,0,0,0,10,40
+94, Peas,NWTCFV-94,0,0,0,0,10,40
+95, Tuna Fish,NWTCM-95,0,0,0,0,30,50
+96, Smoked Salmon,NWTCM-96,0,0,0,0,30,50
+97, Hot Cereal,NWTC-82,0,0,0,0,50,200
+98, Vegetable Soup,NWTSO-98,0,0,0,0,100,200
+99, Chicken Soup,NWTSO-99,0,0,0,0,100,200

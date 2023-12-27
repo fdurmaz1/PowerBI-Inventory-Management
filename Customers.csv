@@ -1,0 +1,30 @@
+Customer ID,Company,Contact Last Name,Contact First Name,Job Title,Address,City,State,Country
+1,Company A,Bedecs,Anna,Owner,123 1st Street,Seattle,WA,USA
+2,Company B,Gratacos Solsona,Antonio,Owner,123 2nd Street,Boston,MA,USA
+3,Company C,Axen,Thomas,Purchasing Representative,123 3rd Street,Los Angelas,CA,USA
+4,Company D,Lee,Christina,Purchasing Manager,123 4th Street,New York,NY,USA
+5,Company E,O’Donnell,Martin,Owner,123 5th Street,Minneapolis,MN,USA
+6,Company F,Pérez-Olaeta,Francisco,Purchasing Manager,123 6th Street,Milwaukee,WI,USA
+7,Company G,Xie,Ming-Yang,Owner,123 7th Street,Boise,ID,USA
+8,Company H,Andersen,Elizabeth,Purchasing Representative,123 8th Street,Portland,OR,USA
+9,Company I,Mortensen,Sven,Purchasing Manager,123 9th Street,Salt Lake City,UT,USA
+10,Company J,Wacker,Roland,Purchasing Manager,123 10th Street,Chicago,IL,USA
+11,Company K,Krschne,Peter,Purchasing Manager,123 11th Street,Miami,FL,USA
+12,Company L,Edwards,John,Purchasing Manager,123 12th Street,Las Vegas,NV,USA
+13,Company M,Ludick,Andre,Purchasing Representative,456 13th Street,Memphis,TN,USA
+14,Company N,Grilo,Carlos,Purchasing Representative,456 14th Street,Denver,CO,USA
+15,Company O,Kupkova,Helena,Purchasing Manager,456 15th Street,Honolulu,HI,USA
+16,Company P,Goldschmidt,Daniel,Purchasing Representative,456 16th Street,San Francisco,CA,USA
+17,Company Q,Bagel,Jean Philippe,Owner,456 17th Street,Seattle,WA,USA
+18,Company R,Autier Miconi,Catherine,Purchasing Representative,456 18th Street,Boston,MA,USA
+19,Company S,Eggerer,Alexander,Accounting Assistant,789 19th Street,Los Angelas,CA,USA
+20,Company T,Li,George,Purchasing Manager,789 20th Street,New York,NY,USA
+21,Company U,Tham,Bernard,Accounting Manager,789 21th Street,Minneapolis,MN,USA
+22,Company V,Ramos,Luciana,Purchasing Assistant,789 22th Street,Milwaukee,WI,USA
+23,Company W,Entin,Michael,Purchasing Manager,789 23th Street,Portland,OR,USA
+24,Company X,Hasselberg,Jonas,Owner,789 24th Street,Salt Lake City,UT,USA
+25,Company Y,Rodman,John,Purchasing Manager,789 25th Street,Chicago,IL,USA
+26,Company Z,Liu,Run,Accounting Assistant,789 26th Street,Miami,FL,USA
+27,Company AA,Toh,Karen,Purchasing Manager,789 27th Street,Las Vegas,NV,USA
+28,Company BB,Raghav,Amritansh,Purchasing Manager,789 28th Street,Memphis,TN,USA
+29,Company CC,Lee,Soo Jung,Purchasing Manager,789 29th Street,Denver,CO,USA
